@@ -56,6 +56,12 @@
       "languageVersion": "2.2"
     },
     {
+      "name": "intl",
+      "rootUri": "file:///C:/Users/LOPES/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/intl-0.16.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.5"
+    },
+    {
       "name": "matcher",
       "rootUri": "file:///C:/Users/LOPES/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/matcher-0.12.6",
       "packageUri": "lib/",
@@ -134,7 +140,7 @@
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2020-06-18T21:57:12.230167Z",
+  "generated": "2020-06-21T18:49:09.836802Z",
   "generator": "pub",
   "generatorVersion": "2.9.0-14.1.beta"
 }
