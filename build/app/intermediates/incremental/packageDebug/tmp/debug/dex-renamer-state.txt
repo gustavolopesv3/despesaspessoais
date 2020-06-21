@@ -1,4 +1,4 @@
-#Thu Jun 18 17:14:40 COT 2020
+#Sun Jun 21 13:14:05 COT 2020
 base.0=C\:\\Users\\LOPES\\Documents\\_FLUTTER\\despesas_semanais\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
